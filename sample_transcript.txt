@@ -1,0 +1,6 @@
+Maya: We need to update the onboarding guide before Friday. Arjun, can you own that?
+Arjun: Yes, I'll finish the guide by Thursday afternoon.
+Maya: Great. Priya, please check the analytics dashboard and send me the broken events list by October 5.
+Priya: I'll take it.
+Sam: I can schedule the customer interviews next week.
+Maya: Sam, please book them by Monday. Also, we should revisit the pricing page, but nobody owns that yet.
